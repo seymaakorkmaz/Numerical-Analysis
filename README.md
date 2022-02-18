@@ -1,10 +1,10 @@
 # Numerical-Analysis
 
 ## The following Numerical Analysis methods have been applied for polynomial equations in C.
-  1. Bisection Method
+ 	1. Bisection Method
 	2. Regula-Falsi Method
 	3. Newton-Rapshon Method
-  4. Inversion of an NxN Matrix
+  	4. Inversion of an NxN Matrix
 	5. Gauus Elimination
 	6. Gauss Seidal
 	7. Numerical Derivative (central, forward and backward differentials optional)
