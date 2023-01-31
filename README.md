@@ -1,7 +1,9 @@
-# Numerical-Analysis
+### Numerical-Analysis
 
-### Application of some Numerical Analysis methods for polynomial equations in C.
- 	1. Bisection Method
+- Numerical Analysis course project.
+
+- Application of some Numerical Analysis methods for polynomial equations in C.
+	1. Bisection Method
 	2. Regula-Falsi Method
 	3. Newton-Rapshon Method
   	4. Inversion of an NxN Matrix
